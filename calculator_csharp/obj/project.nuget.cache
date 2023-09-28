@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AASBCypHX08wMBhPA7bqNrhZHbK2zWDDjP7Y9e79wPhcHPw6+aRMSQuLVdSW/acboDc5MrCSnpvi5SJT78hFZw==",
+  "success": true,
+  "projectFilePath": "/Users/yueliangzhang/Desktop/calculator_csharp/calculator_csharp/calculator_csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/yueliangzhang/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/yueliangzhang/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/yueliangzhang/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
